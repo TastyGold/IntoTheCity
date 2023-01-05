@@ -1,0 +1,55 @@
+
+TastyGold_0 = Into The City
+TastyGold_0_IntoTheCity= Into The City
+
+poem_TastyGold_0_IntoTheCity_A= Captured Memories
+
+#Checkpoints
+TastyGold_0_IntoTheCity_c_01= Backdoor Entrance
+TastyGold_0_IntoTheCity_d_01= Cp2
+
+theointro=
+[THEO right excited]
+{+MADELINE}!
+[MADELINE left normal]
+{+Theo}? Fancy finding you here!
+[THEO right thinking]
+I know, {~}such a crazy small world.{/~}
+[THEO right excited]
+A few friends told me there's some cool alternate route up to that old memorial\.\.\.
+[THEO right normal]
+I was just gonna try to make my way up there. Maybe snap a few photos at the top.
+[MADELINE left normal]
+That sounds fun!
+[MADELINE left normal]
+Mind if I tag along?
+[THEO right excited]
+Alright! This will be a blast!
+[THEO right excited]
+I'll see you at the top. Good luck!
+[THEO right normal]
+And one more thing, {0.25} I hear there's a load of strawberries along the way,
+[THEO right thinking]
+If you wanna get some of them, {~}save a couple for me!{/~}
+
+theowreckage=
+[THEO left excited]
+{+MADELINE}!
+[THEO left thinking]
+Check out this crazy wreckage I found just laying here.
+[MADELINE right surprised]
+Is that a plane?
+[THEO left excited]
+Looks like it!
+[THEO left thinking]
+Hey, I wonder if there's any snacks inside.
+[MADELINE right sad]
+It's probably been here for years\.\.\.
+[MADELINE right distracted]
+I doubt there'd be anything left at all.
+[MADELINE right sad]
+Besides, I don't want you getting hurt.
+[THEO left worried]
+You're probably right, oh well.
+[THEO left thinking]
+This is still totally going on Instapix.

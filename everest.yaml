@@ -1,0 +1,7 @@
+- Name: IntoTheCity
+  Version: 1.0.0
+  Dependencies:
+    - Name: Everest
+      Version: 1.0.0
+    - Name: LunaticHelper
+      Version: 1.1.1
