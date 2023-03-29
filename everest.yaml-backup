@@ -3,3 +3,7 @@
   Dependencies:
     - Name: Everest
       Version: 1.0.0
+    - Name: LunaticHelper
+      Version: 1.1.1
+    - Name: FancyTileEntities
+      Version: 1.6.2
