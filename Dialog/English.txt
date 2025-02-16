@@ -35,30 +35,6 @@ And one more thing, {0.25} I hear there's a load of strawberries along the way,
 If you wanna get some of them, {n}{~}save a couple for me!{/~}
 
 
-theointro2=
-[THEO right excited]
-{+MADELINE}!
-[MADELINE left normal]
-{+Theo}? Fancy finding you here!
-[THEO right thinking]
-I know, {~}such a crazy small world.{/~}
-[THEO right excited]
-A few friends told me there's some cool alternate route up to that old memorial\.\.\.
-[THEO right normal]
-I was just gonna try to make my way up there. Maybe snap a few photos at the top.
-[MADELINE left normal]
-That sounds fun!
-[MADELINE left normal]
-Mind if I tag along?
-[THEO right excited]
-Alright! This will be a blast!
-[THEO right excited]
-I'll see you at the top. Good luck!
-[THEO right normal]
-And one more thing, {0.25} I hear there's a load of strawberries along the way,
-[THEO right thinking]
-If you wanna get some of them, {~}save a couple for me!{/~}
-
 theowreckage=
 [THEO left excited]
 {+MADELINE}!
@@ -82,6 +58,7 @@ You're probably right, oh well.
 This is still totally going on Instapix.
 
 
+theooutro=
 [THEO right excited]
 {+MADELINE}! You made it!
 [THEO right thinking]
@@ -92,6 +69,7 @@ Kinda wild seeing it again. Feels different, y'know?
 It sure does.
 [MADELINE left normal]
 I'm glad you're here.
+
 [MADELINE left distracted]
 I was worried you might get hurt back there.
 [THEO right worried]
@@ -99,27 +77,30 @@ I was worried you might get hurt back there.
 [THEO right thinking]
 I won't lie, I did have a quick {~}heart-to-heart with gravity{/~} along the way.
 [MADELINE left surprised]
-{!}You fell? {0.25}My god, are you alright?{/!}
+{!}You fell?{/!} {0.25}My god, are you alright?
 [THEO right thinking]
-Nothing serious, just had a little slip.
+Nothing serious, just a little slip.
 [THEO right normal]
 I stuck the landing though. {n}Almost {0.25}definitely{0.25} looked cool.
 [MADELINE left sad]
 Well, that's a relief.
 [MADELINE left distracted]
-I don't know what I'd do with myself if you had, {0.25}well,
+I don't know what I'd do with myself if you had, {0.25}well...
 [THEO right thinking]
 Come on, don't have {~}that{/~} little faith{n} in my abilities.
 [THEO right thinking]
 Besides,
 [THEO right yolo]
-{~}Talk about an adrenaline boost!{/~}
+{~}Talk about an adrenaline rush!{/~}
+[THEO right worried]
+{*}Heh.  {/*}
 [MADELINE left sad]
 ...
 [MADELINE left normal]
 Well, I'm glad you're okay.
 [THEO right thinking]
 Right as rain.
+
 [THEO right excited]
 Oh yeah! How are things going with {~}{+ALEX}{/~}?
 [MADELINE left normal]
@@ -134,11 +115,11 @@ Can't complain? {~}Come on{/~}, sister.
 She's wonderful.
 [THEO right thinking]
 She really is.
+
 [THEO right normal]
 I'm glad I came out here again.
 [MADELINE left normal]
 Me too.
-
 [MADELINE left sad]
 Hey,
 [MADELINE left distracted]
@@ -151,6 +132,7 @@ Are you kidding? I've been wanting to {n}come back here since we left!
 Really? How come?
 [THEO right thinking]
 You want the {~}fun answer{/~}{0.25} or the honest answer?
+
 [MADELINE left sad]
 What about the real answer?
 [THEO right thinking]
@@ -159,20 +141,62 @@ Well, the {~}fun answer{/~} is\.\.\.
 That these ruins are awesome!
 [THEO right thinking]
 Every time I see the photos I snapped last time,{n} I can't help but wanna explore them more.
-It's like they {~}breathe with history{/~}. {n}Every pile of rubble, its own little story.
+It's like they {~}breathe with history{/~}. {n}Every pile of rocks has a story, y'know?
 [MADELINE left sad]
 ...
-theooutro=
 [THEO right thinking]
-Okay, {0.25} maybe that's a {>> 0.1}{~}little{/~}{>>} over the top.
+Alright, maybe that's getting a {>> 0.15}{~}little{/~}{>>} carried away.
 [THEO right normal]
-The truth is, {0.5} I've missed you, {0.15}{# F94A4A}{>> 0.6}Strawberry{#}{>>}.
+But I do love this place. Feels like {n}it's got a pulse, y'know?
+[THEO right thinking]
+But, {0.25}that's not really why I came back.
+
+[THEO right normal]
+Honestly? {0.65}I've missed you, {0.15}{# F94A4A}{>> 0.6}Strawberry{#}{>>}.
 [THEO right worried]
 With this new job in Washington, it's been{n} hard to make time for travelling.
+[THEO right normal]
+But I've needed this too, more than I realised.
 [THEO right normal]
 I'm really glad we could do this together.
 [MADELINE left normal]
 Me too. It's been lovely.
 Thanks for coming back here with me.
+[MADELINE left distracted]
+It really means a lot,{0.15} you know.
+[MADELINE left normal]
+Maybe, {0.15}someday, {0.15}we could climb to {n}the top of the {+Mountain} together.
+The view from the top is worth {n}more than I can express.
+It's really, {~}truly{/~} beautiful.
+[THEO right worried]
+.{0.1}.{0.1}.
+[THEO right thinking]
+Perhaps for now let's enjoy the view from {n}{~}the memorial{/~}, hey?
+[THEO right worried]
+My heart still needs to recover from {n}all the {*}excitement{/*} of getting this far.
+[MADELINE left normal]
+You're right. Let's rest here for the night.
+What do you say?
+[THEO right thinking]
+I say that sounds like an {>> 0.3}{~}excellent{/~}{>>} idea.
+[THEO right normal]
+I'll get a fire going.
+
+[MADELINE left normal]
+...
 [MADELINE left sad]
-I really means a lot, you know.
+Hey, {0.25}{+THEO}?
+[THEO right normal]
+What's up?
+[MADELINE left sad]
+...
+[MADELINE left normal]
+I'm really glad you're my friend.
+[THEO right worried]
+...
+[THEO right normal]
+Same here, partner.
+[MADELINE left normal]
+{0.3}Goodnight, {+THEO}.
+[THEO right normal]
+Goodnight, {+MADELINE}.
