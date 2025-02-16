@@ -6,9 +6,36 @@ poem_TastyGold_0_IntoTheCity_A= Captured Memories
 
 #Checkpoints
 TastyGold_0_IntoTheCity_c_01= Backdoor Entrance
-TastyGold_0_IntoTheCity_d_01= Cp2
+TastyGold_0_IntoTheCity_d_01= Frigid Ascent
 
 theointro=
+[MADELINE left normal]
+{+Theo}!
+[THEO right normal]
+Hey, {# F94A4A}Strawberry{#}.
+[MADELINE left normal]
+I'm glad you could make it.
+[THEO right thinking]
+A chance to explore a {~}mysterious abandoned {n}city{/~} again? I wouldn't miss it.
+[MADELINE left sad]
+Are you sure this is the right place?
+[THEO right normal]
+Looks like it. I hear this way there's a cool {n}alternate route up to that old memorial\.\.\.
+[THEO right excited]
+Should be fun!
+[MADELINE left normal]
+Alright, let's do it!
+[THEO right excited]
+Right on! This will be a blast!
+[THEO right excited]
+I'll see you at the top. Good luck!
+[THEO right normal]
+And one more thing, {0.25} I hear there's a load of strawberries along the way,
+[THEO right thinking]
+If you wanna get some of them, {n}{~}save a couple for me!{/~}
+
+
+theointro2=
 [THEO right excited]
 {+MADELINE}!
 [MADELINE left normal]
@@ -53,3 +80,99 @@ Besides, I don't want you getting hurt.
 You're probably right, oh well.
 [THEO left thinking]
 This is still totally going on Instapix.
+
+
+[THEO right excited]
+{+MADELINE}! You made it!
+[THEO right thinking]
+Man, it's been forever since I was last up here...
+[THEO right worried]
+Kinda wild seeing it again. Feels different, y'know?
+[MADELINE left sad]
+It sure does.
+[MADELINE left normal]
+I'm glad you're here.
+[MADELINE left distracted]
+I was worried you might get hurt back there.
+[THEO right worried]
+...
+[THEO right thinking]
+I won't lie, I did have a quick {~}heart-to-heart with gravity{/~} along the way.
+[MADELINE left surprised]
+{!}You fell? {0.25}My god, are you alright?{/!}
+[THEO right thinking]
+Nothing serious, just had a little slip.
+[THEO right normal]
+I stuck the landing though. {n}Almost {0.25}definitely{0.25} looked cool.
+[MADELINE left sad]
+Well, that's a relief.
+[MADELINE left distracted]
+I don't know what I'd do with myself if you had, {0.25}well,
+[THEO right thinking]
+Come on, don't have {~}that{/~} little faith{n} in my abilities.
+[THEO right thinking]
+Besides,
+[THEO right yolo]
+{~}Talk about an adrenaline boost!{/~}
+[MADELINE left sad]
+...
+[MADELINE left normal]
+Well, I'm glad you're okay.
+[THEO right thinking]
+Right as rain.
+[THEO right excited]
+Oh yeah! How are things going with {~}{+ALEX}{/~}?
+[MADELINE left normal]
+Can't complain.
+[THEO right thinking]
+Can't complain? {~}Come on{/~}, sister.
+[THEO right excited]
+{+ALEX} hasn't been able to shut up about you!
+[MADELINE left normal]
+...
+[MADELINE left peaceful]
+She's wonderful.
+[THEO right thinking]
+She really is.
+[THEO right normal]
+I'm glad I came out here again.
+[MADELINE left normal]
+Me too.
+
+[MADELINE left sad]
+Hey,
+[MADELINE left distracted]
+Thanks for coming out here with me.
+[MADELINE left normal]
+I've really needed this.
+[THEO right excited]
+Are you kidding? I've been wanting to {n}come back here since we left!
+[MADELINE left normal]
+Really? How come?
+[THEO right thinking]
+You want the {~}fun answer{/~}{0.25} or the honest answer?
+[MADELINE left sad]
+What about the real answer?
+[THEO right thinking]
+Well, the {~}fun answer{/~} is\.\.\.
+[THEO right excited]
+That these ruins are awesome!
+[THEO right thinking]
+Every time I see the photos I snapped last time,{n} I can't help but wanna explore them more.
+It's like they {~}breathe with history{/~}. {n}Every pile of rubble, its own little story.
+[MADELINE left sad]
+...
+theooutro=
+[THEO right thinking]
+Okay, {0.25} maybe that's a {>> 0.1}{~}little{/~}{>>} over the top.
+[THEO right normal]
+The truth is, {0.5} I've missed you, {0.15}{# F94A4A}{>> 0.6}Strawberry{#}{>>}.
+[THEO right worried]
+With this new job in Washington, it's been{n} hard to make time for travelling.
+[THEO right normal]
+I'm really glad we could do this together.
+[MADELINE left normal]
+Me too. It's been lovely.
+Thanks for coming back here with me.
+[MADELINE left sad]
+I really means a lot, you know.
