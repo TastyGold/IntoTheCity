@@ -1,4 +1,3 @@
-
 TastyGold_0 = Into The City
 TastyGold_0_IntoTheCity= Into The City
 
@@ -92,8 +91,6 @@ Come on, don't have {~}that{/~} little faith{n} in my abilities.
 Besides,
 [THEO right yolo]
 {~}Talk about an adrenaline rush!{/~}
-[THEO right worried]
-{*}Heh.  {/*}
 [MADELINE left sad]
 ...
 [MADELINE left normal]
@@ -161,9 +158,10 @@ But I've needed this too, more than I realised.
 I'm really glad we could do this together.
 [MADELINE left normal]
 Me too. It's been lovely.
-Thanks for coming back here with me.
 [MADELINE left distracted]
-It really means a lot,{0.15} you know.
+Thanks for coming back here with me.
+[MADELINE left sad]
+{0.15}It really means a lot,{0.25} you know.
 [MADELINE left normal]
 Maybe, {0.15}someday, {0.15}we could climb to {n}the top of the {+Mountain} together.
 The view from the top is worth {n}more than I can express.
