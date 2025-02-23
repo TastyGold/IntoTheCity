@@ -1,11 +1,11 @@
-TastyGold_0 = Into The City
+TastyGold_0= Into The City
 TastyGold_0_IntoTheCity= Into The City
 
 poem_TastyGold_0_IntoTheCity_A= Captured Memories
 
 #Checkpoints
 TastyGold_0_IntoTheCity_c_01= Backdoor Entrance
-TastyGold_0_IntoTheCity_d_01= Frigid Ascent
+TastyGold_0_IntoTheCity_d_01= Glacial Ascent
 
 theointro=
 [MADELINE left normal]
